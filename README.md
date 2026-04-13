@@ -12,7 +12,7 @@ The analysis follows a hybrid workflow: **Python** for data preparation and pred
 ---
 
 ## Interactive Dashboard
-The final interactive "Logistics Control Tower" and Storyboard can be accessed here:
+The final interactive "Logistics Control Dashboard" and Storyboard can be accessed here:
 [**View My Tableau Public Portfolio**](https://public.tableau.com/app/profile/nitin.dhiman8857/viz/Analysis-BrazilianE-CommerceLogisticsFriction/Storyboard)
 
 ---
